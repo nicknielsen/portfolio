@@ -1,0 +1,67 @@
+body {
+  font-family: 'Questrial', sans-serif;
+}
+
+/* NAVBAR SECTION */
+/* TITLE SECTION */
+.nick-image {
+  width: 100%;
+  border-radius: 100%;
+}
+
+.title-section {
+  text-align: left;
+  padding: 5% 10%;
+  background-color: white;
+}
+
+.h1-title {
+  padding-top: 6rem;
+}
+
+/* WRITING SECTION */
+
+.h2-writing {
+  margin-bottom: 2%;
+}
+
+.writing-section {
+  text-align: center;
+  padding: 5% 10%;
+  background-color: black;
+  color: white;
+}
+
+.card {
+  color: black;
+  margin: 2% 2%;
+}
+
+.card-row {
+  margin: 3% 5%;
+}
+
+.card-text{
+  padding: 0.18rem;
+}
+
+
+/* PROGRAMMING SECTION */
+.programming-section {
+  text-align: center;
+  padding: 5% 10%;
+  background-color: white;
+}
+
+
+/* CONTACT SECTION */
+.footer {
+  text-align: center;
+  padding: 5% 10%;
+  background-color: black;
+  color: white;
+}
+
+.copyright {
+  padding-top: 2%;
+}

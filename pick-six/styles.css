@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+}
+
+input{
+  width: 200px;
+  margin: .5rem;
+}
+
+button {
+  margin: .5rem 0 1rem;
+}
+
+.dice {
+  display: inline-block;
+}
+
+.movie-form {
+  display: inline-block;
+}
+
+.die {
+  width: 35%;
+  position: relative;
+  bottom: 3rem;
+  margin: 0 1rem;
+}
+
+/* .roll-message{
+position: absolute;
+left:20%;
+top: 250px
+} */
+
+/* 
+@media screen and (max-width: 600px) {
+  .die {
+    display: inline-block;
+    width: 20%;
+  }
+  button{
+    position: no;
+    display: inline-block;
+  }
+} */
