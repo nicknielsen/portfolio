@@ -53,13 +53,15 @@ body {
   background-color: white;
 }
 
+/* VOICEOVER SECTION */
+
 
 /* CONTACT SECTION */
 .footer {
   text-align: center;
   padding: 5% 10%;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 .copyright {
